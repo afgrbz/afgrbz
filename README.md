@@ -1,6 +1,8 @@
 ### Hi there 👋
 #   I'm Ahmet Fatih Gurbuz!
-    I'm working on the .NET development platform. In line with these studies, I take an active part in the bootcamp program of Patika.dev.
+    
+   I'm working on the .NET development platform. In line with these studies, I take an active part in the bootcamp program of Patika.dev.
+    
 <!--
 **afgrbz/afgrbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
