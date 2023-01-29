@@ -1,7 +1,7 @@
 ##   Hi there 👋
 ##   I'm Ahmet Fatih Gurbuz!
     
-   I’m currently working on .NET development platform.
+   I’m currently working on .NET framework.
    
    In line with these studies,I am an active participant in the bootcamp program of [Patika.dev](https://patika.dev)
    
