@@ -1,5 +1,5 @@
-### Hi there 👋
-#   I'm Ahmet Fatih Gurbuz!
+##   Hi there 👋
+##   I'm Ahmet Fatih Gurbuz!
     
   🔭 I’m currently working on .NET development platform.
     
